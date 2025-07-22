@@ -7,7 +7,7 @@ import org. springframework.web.bind. annotation. RestController;
 public class yatch {
     @GetMapping ("/yatch")
     public String getData(){
-        return "Book your yatch from Mumbai to Pune !! ";
+        return "Book your yatch from Goa to Amsterdam !! ";
 
     }
 }
